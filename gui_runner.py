@@ -140,7 +140,7 @@ class ThemeManager:
             QCheckBox::indicator:checked {
                 background: #2a82da;
                 border: 1px solid #2a82da;
-                image: url(:/icons/checkmark_white.svg);
+                image: url(icons/checkmark_white.svg);
             }
             QCheckBox::indicator:unchecked:hover {
                 border: 1px solid #888;
