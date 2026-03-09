@@ -1,22 +1,22 @@
-**✨ Features**
+** Features**
 
-**🖱️ Drag & Drop Interface - Just drop your files and click run!**
+** Drag & Drop Interface - Just drop your files and click run!**
 
-**🎨 Dark/Light Themes - Choose your preferred visual style**
+** Dark/Light Themes - Choose your preferred visual style**
 
-**💾 Automatic Backups - Input files are automatically backed up before processing**
+** Automatic Backups - Input files are automatically backed up before processing**
 
-**📁 Custom Backup Locations - Save backups wherever you prefer**
+** Custom Backup Locations - Save backups wherever you prefer**
 
-**🔧 Script Parameters - Configure settings for each script**
+** Script Parameters - Configure settings for each script**
 
-**📊 Real-time Output - See script progress as it happens**
+** Real-time Output - See script progress as it happens**
 
-**📖 Built-in Documentation - Each script comes with its own README**
+** Built-in Documentation - Each script comes with its own README**
 
-**🏷️ Organized Backups - Files are organized by script name and timestamp**
+** Organized Backups - Files are organized by script name and timestamp**
 
-**🚀 Quick Start**
+** Quick Start**
 
 Installation
 
@@ -29,19 +29,19 @@ Start using your scripts immediately
 Install dependencies:
 
 pip install -r requirements.txt
-📁 How to Organize Your Scripts
+How to Organize Your Scripts
 
 **Place your Python scripts in the scripts/ folder.**
 
 Each script folder should contain:
 
-🐍 A Python script (.py file)
+ A Python script (.py file)
 
-📖 A README file (explaining what the script does)
+ A README file (explaining what the script does)
 
-⚙️ A config file (for parameters - optional)
+ A config file (for parameters - optional)
 
-🎯 How to Use
+ How to Use
 Open the BifteKYS application
 
 Select a script tab from the top
@@ -58,37 +58,37 @@ Watch the real-time output
 
 Access your results in the output folder!
 
-**🔧 Configuration**
+** Configuration**
 
 Settings
 
 Access settings via the toolbar to customize:
 
-**🌓 Appearance: Switch between light and dark themes**
+** Appearance: Switch between light and dark themes**
 
-**💾 Backup Options:**
+** Backup Options:**
 
 Enable/disable automatic backups
 
 Set custom backup location
 
-**📂 Default Paths: Set default input/output folders**
+** Default Paths: Set default input/output folders**
 
 Script Parameters
 Many scripts support parameters that you can configure:
 
-**📝 Text inputs**
+** Text inputs**
 
-**☑️ Checkboxes (on/off)**
+** Checkboxes (on/off)**
 
-**🔽 Dropdown menus**
+** Dropdown menus**
 
-**📁 File browsers**
+** File browsers**
 
-**💾 Backup System**
+** Backup System**
 
 
-**🤝 Contributing**
+** Contributing**
 
 We welcome contributions! Here's how:
 
@@ -102,13 +102,13 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-**📝 License**
+** License**
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-**👥 Authors**
+** Authors**
 Menelaos Ioannidis - Initial work - YourGitHub
 
-**🙏 Acknowledgments**
+** Acknowledgments**
 Icons by Feather Icons
 
 Built with PyQt6
